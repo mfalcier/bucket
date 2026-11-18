@@ -1,0 +1,37 @@
+ticker,sector,classification,source,note
+AAPL,Technology and digital,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+ABBV,Healthcare,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+ACM,Technology and digital,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue. Original file names Accenture but ACM is an inconsistent ticker. Preserved as a legacy exercise key.
+AMT,Real estate,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+AMZN,Technology and digital,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+AXP,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+BA,Industrials,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+BAC,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+BRK.B,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+C,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+CB,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+CL,Consumer businesses,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+CNI,Industrials,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+COST,Consumer businesses,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+DEO,Consumer businesses,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+FB,Technology and digital,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue. Preserved legacy exercise key. No current tradability assumed.
+GOOG,Technology and digital,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+GOOGL,Technology and digital,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+GS,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+HD,Consumer businesses,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+JNJ.B,Healthcare,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue. Preserved legacy exercise key. No current tradability assumed.
+JNJ,Healthcare,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+JPM,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+KO,Consumer businesses,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+MA,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+MS,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+MSFT,Technology and digital,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+NKE,Consumer businesses,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+PNC,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+TJX,Consumer businesses,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+UNP,Industrials,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+UPS,Industrials,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+USB,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+V,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+WFC,Financial services,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
+XOM,Energy,demo_taxonomy_v1,synthetic_catalog_v1,Classification by issuer name in the original exercise catalogue.
